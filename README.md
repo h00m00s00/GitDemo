@@ -16,4 +16,6 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ---------
 This is from idea.
 ---------
-brach dev
+brach (confile) dev
+---------
+merge to master
