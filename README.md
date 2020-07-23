@@ -16,11 +16,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ---------
 This is from idea.
 ---------
-brach (confile) dev
+This is switched to dev.
 ---------
-asadfasdf
-----------
-mersssge t2222o ma2222ster
----------------
-asdfadfasf
-asdfa
